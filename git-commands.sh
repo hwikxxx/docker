@@ -8,3 +8,4 @@ git pull                                # Слить изменения из у�
 # Branches commands
 git branch -m old-branch new-branch     # Создать новую ветку
 git switch                              # Поменять на новую ветку
+git status                              # Проверка состояния текущей ветки репозитория 
